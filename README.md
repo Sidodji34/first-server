@@ -1,1 +1,1 @@
-# first server with Node.js Mongoose and MongoDB
+# first server with Node.js, Mongoose and MongoDB
